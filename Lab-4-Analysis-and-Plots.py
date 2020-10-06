@@ -6,6 +6,7 @@ Date: 10/5/2020
 Anywhere you see 0.762 or 0.0395, these must get changed to your pipe length and pipe diameter, respectively.
 Of course, change the 4 lists of data to your data as well as the value of d at the top.
 You may additionally need to alter the plot error bars, texts, ticks, and axes.
+I used a non-standard library called sklearn.metrics for the coefficient of determination. If you do not have this library and do not want to download it, you can comment out the all of the lines discussing correlation.
 """
 
 import matplotlib.pyplot as plt
