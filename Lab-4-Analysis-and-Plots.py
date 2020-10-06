@@ -1,3 +1,9 @@
+"""
+Author: Brandon Curl
+Contact: brandoncurl@utexas.edu
+Date: 10/5/2020
+"""
+
 import matplotlib.pyplot as plt
 import numpy as np
 from scipy.optimize import curve_fit
