@@ -2,6 +2,10 @@
 Author: Brandon Curl
 Contact: brandoncurl@utexas.edu
 Date: 10/5/2020
+
+Anywhere you see 0.762 or 0.0395, these must get changed to your pipe length and pipe diameter, respectively.
+Of course, change the 4 lists of data to your data as well as the value of d at the top.
+You may additionally need to alter the plot error bars, texts, ticks, and axes.
 """
 
 import matplotlib.pyplot as plt
